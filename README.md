@@ -3,8 +3,6 @@
 
 *Resume last updated on August 8, 2023 at 16:56*
 
-![Profile Picture](profile_picture_url)
-
 **Gender:** Male  
 **Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp)  
 **Email:** 801.satori@gmail.com  
@@ -28,8 +26,14 @@ Full-time, Freelance
 ## Work Schedule
 Full-time, Flexible Hours, Remote
 
-## Preferred Commute Time
-Doesn't matter
+## Additional Information
+- Programming Languages: JavaScript, TypeScript, SQL
+- Technologies: Node.js, GraphQL, RabbitMQ, TypeORM, Sequlize, Prisma, Nginx, Docker, HTML, CSS
+- Frameworks: Nest.js, Express, Fastify, Koa, Hapi, Vue.js, Telegraf, Element UI, Bootstrap, Materialize, Zurb Foundation
+- Database: Postgres, ClickHouse, MongoDB, FireBase
+- Development Tools: GitHub, GitLab, Jira, YouTrack
+- API Experience: Google API (docs, script), Payment system (Robokassa), Telegram Bot API, Wildberries API, Ozon API
+- Tests: Mocha, Jest
 
 ## Experience
 ### AX Technology uz, Tashkent
@@ -103,21 +107,6 @@ Telegram bot @lettobehappy_bot for compiling and sending individual information.
 - Logging events and errors
 **Technologies & tools:** Node.js, Fastify, Telegraf, Mongo Atlas, Payments API, Loggly, VDS
 
-## Education
-High School Diploma
-
 ## Languages
 - Russian (Native)
 - English (A2 — Elementary)
-
-## Skills
-Node.js, JavaScript, TypeScript, PostgreSQL, MongoDB, Express, Fastify, Koa, TypeORM, Nest.js, ClickHouse, RabbitMQ, Sequlize, Prisma, GraphQL, Nginx, Docker, HTML, CSS, Vue.js, Element UI, Bootstrap, Materialize, Zurb Foundation, Git, GitHub, GitLab, Jira, YouTrack, Mocha, Jest
-
-## Additional Information
-- Programming Languages: JavaScript, TypeScript, SQL
-- Technologies: Node.js, GraphQL, RabbitMQ, TypeORM, Sequlize, Prisma, Nginx, Docker, HTML, CSS
-- Frameworks: Nest.js, Express, Fastify, Koa, Hapi, Vue.js, Telegraf, Element UI, Bootstrap, Materialize, Zurb Foundation
-- Database: Postgres, ClickHouse, MongoDB, FireBase
-- Development Tools: GitHub, GitLab, Jira, YouTrack
-- API Experience: Google API (docs, script), Payment system (Robokassa), Telegram Bot API, Wildberries API, Ozon API
-- Tests: Mocha, Jest
