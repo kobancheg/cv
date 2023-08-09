@@ -45,6 +45,7 @@ Developed a CRM application tailored for a real estate agency's accounting and m
 - Building the structure of departments
 - Database formation
 - Creation of CRM functionality for different roles of system users
+
 **Technologies & Tools Utilized:** Node.js, TypeScript, Nest.js, Postgres, Prisma, GraphQL
 
 ### Market Guru, Taganrog
