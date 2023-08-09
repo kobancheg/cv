@@ -9,9 +9,7 @@
 **LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/)  
 **Location:** Tashkent  
 **Citizenship:** Russia  
-**Work Permit:** Russia  
 **Open to Relocation:** Yes  
-**Open to Business Trips:** Yes 
 
 ## Specializations
 Programmer, Developer
