@@ -1,6 +1,12 @@
 # Aleksei Kozhukhov
+## NODE.JS BACK-END DEVELOPER
 
-![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)
+*Resume last updated on August 8, 2023 at 16:56*
+
+| ![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg =150x) | 
+| :------------------------------------------------------------------------: |
+|               |
+
 
 ## NODE.JS BACK-END DEVELOPER
 
