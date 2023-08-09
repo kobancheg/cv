@@ -6,7 +6,9 @@
 **Gender:** Male  
 **Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp)  
 **Email:** 801.satori@gmail.com  
-**LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/)  
+**LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/)
+
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
 
 **Location:** Tashkent  
 **Citizenship:** Russia  
