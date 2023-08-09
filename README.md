@@ -5,15 +5,15 @@
 
 |                       |                            |
 |-----------------------|----------------------------|
-|![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)|**Gender:** Male            |
-|                       |**Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp) |
-|                       |**Email:** 801.satori@gmail.com               |
-|                       |**LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/) |
-|                       |**Location:** Tashkent         |
-|                       |**Citizenship:** Russia        |
-|                       |**Work Permit:** Russia       |
-|                       |**Open to Relocation:** Yes   |
-|                       |**Open to Business Trips:** Yes|
+![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)|**Gender:** Male            |
+                       |**Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp) |
+                       |**Email:** 801.satori@gmail.com               |
+                       |**LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/) |
+                       |**Location:** Tashkent         |
+                       |**Citizenship:** Russia        |
+                       |**Work Permit:** Russia       |
+                       |**Open to Relocation:** Yes   |
+                       |**Open to Business Trips:** Yes|
 
 ## Specializations
 Programmer, Developer
