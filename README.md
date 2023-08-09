@@ -1,6 +1,7 @@
 # Aleksei Kozhukhov
 
-<img src="https://github.com/kobancheg/cv/blob/main/ava_rs.jpg" alt="Photo profile" style="max-height: 200px;">
+<img src="https://github.com/kobancheg/cv/blob/main/ava_rs.jpg" alt="Photo profile" style="max-height: 100px;">
+
 ## NODE.JS BACK-END DEVELOPER
 
 *Resume last updated on August 8, 2023 at 16:56*
