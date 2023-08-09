@@ -9,7 +9,6 @@
 **LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/)  
 **Location:** Tashkent  
 **Citizenship:** Russia
-
 **Open to Relocation:** Yes  
 
 ## Specializations
