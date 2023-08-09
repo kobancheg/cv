@@ -3,17 +3,22 @@
 
 *Resume last updated on August 8, 2023 at 16:56*
 
-|                       |                            |
-|-----------------------|----------------------------|
-![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)|**Gender:** Male            |
-                       |**Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp) |
-                       |**Email:** 801.satori@gmail.com               |
-                       |**LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/) |
-                       |**Location:** Tashkent         |
-                       |**Citizenship:** Russia        |
-                       |**Work Permit:** Russia       |
-                       |**Open to Relocation:** Yes   |
-                       |**Open to Business Trips:** Yes|
+<div style="display: flex;">
+    <div style="flex: 1; padding-right: 20px;">
+        ![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)
+    </div>
+    <div style="flex: 2;">
+        **Gender:** Male  
+        **Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp)  
+        **Email:** 801.satori@gmail.com  
+        **LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/)  
+        **Location:** Tashkent  
+        **Citizenship:** Russia  
+        **Work Permit:** Russia  
+        **Open to Relocation:** Yes  
+        **Open to Business Trips:** Yes
+    </div>
+</div>
 
 ## Specializations
 Programmer, Developer
