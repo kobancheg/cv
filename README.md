@@ -1,18 +1,17 @@
 # Aleksei Kozhukhov
+
+![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)
+
 ## NODE.JS BACK-END DEVELOPER
 
 *Resume last updated on August 8, 2023 at 16:56*
 
-| <img src="https://github.com/kobancheg/cv/blob/main/ava_rs.jpg" alt="Photo profile" width="100" height="auto"> | **Gender:** Male |
-| --- | --- |
-| | **Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp) |
-| | **Email:** 801.satori@gmail.com |
-| | **LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/) |
-| | **Location:** Tashkent |
-| | **Citizenship:** Russia |
-| | **Work Permit:** Russia |
-| | **Open to Relocation:** Yes |
-| | **Open to Business Trips:** Yes |
+**Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp)  
+**Email:** 801.satori@gmail.com  
+**LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/)
+**Location:** Tashkent  
+**Citizenship:** Russia
+**Open to Relocation:** Yes  
 
 ## Specializations
 Programmer, Developer
