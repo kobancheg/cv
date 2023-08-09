@@ -1,18 +1,9 @@
 # Aleksei Kozhukhov
 
-![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)
 
-Номер | Название | Цена
-------|:--------:|------:
-1     | шило     | 10
-        мыло     | 20
-        веревка  | 40
 
-## NODE.JS BACK-END DEVELOPER
-
-*Resume last updated on August 8, 2023 at 16:56*
-
-**Gender:** Male  
+------|:--------:|
+![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)     | **Gender:** Male  
 **Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp)  
 **Email:** 801.satori@gmail.com  
 **LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/)
@@ -21,7 +12,13 @@
 **Citizenship:** Russia  
 **Work Permit:** Russia  
 **Open to Relocation:** Yes  
-**Open to Business Trips:** Yes
+**Open to Business Trips:** Yes     |
+
+## NODE.JS BACK-END DEVELOPER
+
+*Resume last updated on August 8, 2023 at 16:56*
+
+
 
 ## Specializations
 Programmer, Developer
