@@ -8,7 +8,7 @@
 **Email:** 801.satori@gmail.com  
 **LinkedIn:** [Profile](https://www.linkedin.com/in/aleksey-kozhukhov/)
 
-![Иллюстрация к проекту](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)
+![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)
 
 **Location:** Tashkent  
 **Citizenship:** Russia  
