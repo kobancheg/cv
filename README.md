@@ -57,6 +57,7 @@ B2B marketplace statistics service. Participation in the development of the back
 - Parsing and processing large amounts of data
 - Microservices, endpoints, services, repositories
 - Interaction with data in DBMS Postgres, ClickHouse, Redis
+
 **Technologies & tools:** Node.js, TypeScript, Nest.js, RabbitMQ
 
 ### CRM App
@@ -67,6 +68,7 @@ Participation in the development of the backend functionality of the project:
 - Node.js REST API
 - Creating CRUD endpoints, services, repositories
 - Interacting with data in the Postgres DBMS through TypeORM
+
 **Technologies & tools:** Node.js, TypeScript, Hapi.js, Postgres, TypeORM
 
 ### BetterLife Startup
@@ -81,6 +83,7 @@ On-Lain education app for accessing training videos. The project was developed w
 - Administration panel for publishing content
 - Frontend part on Vue 3
 - Deployment of the project on VDS
+
 **Technologies & tools:** Node.js, Express, Postgres, Nginx, Vue 3, Element Ui
 
 ### Subity Startup
@@ -93,6 +96,7 @@ Subscriptions app for management service. The project was developed with the fol
 - Validation token and data
 - Docker Compose integration
 - Deploy on AWS Services
+
 **Technologies & tools:** Node.js, Express, Firebase, Docker, AWS, GitHub
 
 ### Let-Tobe-Happy Startup
@@ -106,6 +110,7 @@ Telegram bot @lettobehappy_bot for compiling and sending individual information.
 - Sending out individual information for each user
 - Integration payment systems
 - Logging events and errors
+
 **Technologies & tools:** Node.js, Fastify, Telegraf, Mongo Atlas, Payments API, Loggly, VDS
 
 ## Languages
