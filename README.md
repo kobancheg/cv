@@ -14,9 +14,6 @@
 ## Specializations
 Programmer, Developer
 
-## Availability
-Full-time, Freelance
-
 ## Work Schedule
 Full-time, Flexible Hours, Remote
 
