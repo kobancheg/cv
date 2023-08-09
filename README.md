@@ -1,9 +1,8 @@
 # Aleksei Kozhukhov
-## NODE.JS BACK-END DEVELOPER
-
-*Resume last updated on August 8, 2023 at 16:56*
 
 <img src="https://github.com/kobancheg/cv/blob/main/ava_rs.jpg" alt="Photo profile" style="height: 150px; float: left; margin-right: 20px;">
+
+## NODE.JS BACK-END DEVELOPER
 
 **Preferred Contact:** +995 (511) 162274 (Telegram: @sat8ori, WhatsApp)  
 **Email:** 801.satori@gmail.com  
