@@ -1,6 +1,6 @@
 # Aleksei Kozhukhov
 
-<img src="https://github.com/kobancheg/cv/blob/main/ava_rs.jpg" alt="Photo profile" style="height: 150px; float: left; margin-right: 20px;">
+<img src="https://github.com/kobancheg/cv/blob/main/ava_rs.jpg" alt="Photo profile" style="height: 150px;">
 
 ## NODE.JS BACK-END DEVELOPER
 
