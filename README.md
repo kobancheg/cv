@@ -2,6 +2,12 @@
 
 ![Photo profile](https://github.com/kobancheg/cv/blob/main/ava_rs.jpg)
 
+Номер | Название | Цена
+------|:--------:|------:
+1     | шило     | 10
+2     | мыло     | 20
+3     | веревка  | 40
+
 ## NODE.JS BACK-END DEVELOPER
 
 *Resume last updated on August 8, 2023 at 16:56*
